@@ -1,0 +1,116 @@
+{
+  "brand_name": "ULTRACEM",
+  "legal_name": "Ultracem S.A.S.",
+  "website": "https://ultracem.co/",
+  "taglines": [
+    "Venta de Cemento y Concreto",
+    "Soluciones integrales para la industria de la construcción",
+    "Calidad, Resistencia y Rendimiento",
+    "Soluciones innovadoras para la construcción",
+    "Ahora comprar productos Ultracem es mucho más fácil"
+  ],
+  "ai_assistant": {
+    "name": "Vanesa",
+    "channel": "WhatsApp",
+    "concept": "Autogestión con IA en un sector tradicional: Vanesa y la apuesta de Ultracem por una relación cada vez más inteligente"
+  },
+  "training_program": {
+    "name": "Campus Ultra WhatsApp",
+    "concept": "La apuesta de Ultracem por la formación del sector de la construcción"
+  },
+  "headquarters_and_plants": {
+    "main_plant": "Galapa, Atlántico, Colombia",
+    "other_countries": [
+      "Colombia",
+      "Guatemala"
+    ]
+  },
+  "commercial_advisors_contacts": [
+    {
+      "name": "Hichel Espitia",
+      "phone": "3102503454"
+    },
+    {
+      "name": "Milena Ospino",
+      "phone": "3135574297",
+      "email": "mospino@ultracem.co"
+    },
+    {
+      "name": "Adriana Anaya",
+      "phone": "3207096744",
+      "email": "aanaya@ultracem.co"
+    },
+    {
+      "customer_service": "servicioalcliente@ultracem.co"
+    }
+  ],
+  "logos": {
+    "main_logo_blue": "https://ultracem.co/wp-content/uploads/2020/04/logo-ultracem-azul-e1693862120398.webp",
+    "logo_mobile": "https://ultracem.co/wp-content/uploads/2019/02/Cemento-Concreto-ultracem-Logo-Mobile.webp",
+    "logo_footer_yellow": "https://ultracem.co/wp-content/uploads/2019/02/logo-amarillo-footer.png",
+    "favicon": "https://ultracem.co/wp-content/uploads/2020/05/Favicon-logo-ultracem.jpg",
+    "gemas_brandmark": "https://ultracem.co/wp-content/uploads/2020/04/gemas@2x.png"
+  },
+  "color_palette": {
+    "primary_blue": "#003E78",
+    "cobalt_blue": "#004797",
+    "ultracem_yellow_accent": "#FCB900",
+    "accent_vivid_orange": "#FF6900",
+    "accent_blue": "#1E73BE",
+    "dark_navy_slate": "#222222",
+    "pure_white": "#FFFFFF",
+    "light_slate_bg": "#F7F8F9"
+  },
+  "typography": {
+    "primary_family": "Montserrat, sans-serif",
+    "secondary_system": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+    "weights": [
+      "300 (Light)",
+      "400 (Regular)",
+      "600 (SemiBold)",
+      "700 (Bold)",
+      "900 (Black)"
+    ]
+  },
+  "social_networks": {
+    "facebook": "https://www.facebook.com/CementoUltracem/",
+    "instagram": "https://www.instagram.com/cementoultracem/",
+    "linkedin": "https://co.linkedin.com/company/ultracem",
+    "youtube": "https://www.youtube.com/channel/UCAiiV-YyfjEZQdY7fneSAvg",
+    "twitter": "https://twitter.com/Ultracem",
+    "tiktok": "https://www.tiktok.com/@cementoultracem"
+  },
+  "subpages": {
+    "Concretos": {
+      "url": "https://ultracem.co/concretos/",
+      "headings": [
+        "Síguenos en redes:",
+        "CONCRETO diseñado, modificado Ultracem",
+        "ULTRA - INTELLIGENT",
+        "CONCRETOS CONVENCIONALES PARA EDIFICACIONES",
+        "CONCRETOS PARA CONSTRUCCIÓN INDUSTRIALIZADA",
+        "CONCRETOS PARA PILOTES Y FUNDACIONES",
+        "CONCRETOS PARA PAVIMENTOS Y PISOS",
+        "CONCRETOS ESPECIALIZADOS",
+        "MORTEROS PREMEZCLADOS",
+        "¿Ya conoces Mobile Jobsite?",
+        "Ultracem en línea | Institucional",
+        "Tienda Ultracem |  Hogar",
+        "WhatsApp Vanesa",
+        "Cotiza aquí"
+      ],
+      "images": [
+        "https://ultracem.co/wp-content/uploads/2026/09/FT-CONCRETO-PARA-PILOTES-SISTEMA-TORNILLO-CONTINUO-2026.pdf",
+        "https://ultracem.co/wp-content/uploads/2026/09/FT-CONCRETO-FLUIDO-2026.pdf",
+        "https://ultracem.co/wp-content/uploads/2026/05/POLÍTICA-DE-DEVOLUCIONES-Ultracem-.pdf",
+        "https://ultracem.co/wp-content/uploads/2023/09/Guatemala-e1693926924335.png",
+        "https://ultracem.co/wp-content/uploads/2026/09/FT-CONCRETO-ULTRAIMPERMEABILIZADO-2026.pdf",
+        "https://ultracem.co/wp-content/uploads/2023/07/image001-removebg-preview.png",
+        "https://ultracem.co/wp-content/uploads/elementor/thumbs/vanessa-ultracem-qh6xoney9dk2eptgx29j44ignv292pwfjn1kmx8zvo.png",
+        "https://ultracem.co/wp-content/uploads/2023/09/Colombia-e1693926937947.png.webp",
+        "https://ultracem.co/wp-content/uploads/2023/07/CONCRETO_PAVIMENTO_FAST-TRACK.pdf",
+        "https://ultracem.co/wp-content/uploads/2019/04/linea-8.png"
+      ]
+    }
+  }
+}
