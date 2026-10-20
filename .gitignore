@@ -12,6 +12,9 @@ __pycache__/
 .env.local
 *.log
 
+# Agent workspace logs
+.agents/teamwork/
+
 # OS metadata
 .DS_Store
 Thumbs.db

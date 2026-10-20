@@ -112,8 +112,8 @@ const server = http.createServer((req, res) => {
 
 server.listen(PORT, () => {
   console.log(`\n======================================================`);
-  console.log(`🚀 UltraRacha v3.3 Servidor + Proxy NVIDIA NIM Activo`);
-  console.log(`📡 URL Principal:  http://localhost:${PORT}`);
-  console.log(`⚡ Endpoint Proxy: http://localhost:${PORT}/api/nvidia`);
+  console.log(`[ULTRACEM] UltraRacha v3.3 Servidor + Proxy NVIDIA NIM Activo`);
+  console.log(`[HTTP] URL Principal:  http://localhost:${PORT}`);
+  console.log(`[PROXY] Endpoint Proxy: http://localhost:${PORT}/api/nvidia`);
   console.log(`======================================================\n`);
 });
